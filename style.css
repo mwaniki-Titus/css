@@ -1,5 +1,5 @@
 body {
-    
+    font-family: 'Outfit' , sans-serif;
     background-color: hsl(212, 45%, 89%);
     margin: 20px;
     display: flex;
@@ -22,7 +22,7 @@ body {
 .text{
     text-align: center;
     padding: 2px;
-    font-family: "outfit";
+    font-family: 'Outfit', sans-serif;
 }
 .container img {
     
